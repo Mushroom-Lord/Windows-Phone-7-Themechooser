@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/jb_smsmms">@drawable/com_jb_gosms_jb_smsmms</item>
+    <item name="drawable/top_panel_default">@drawable/top_panel_default</item>
+    <item name="drawable/state_notify_msg">@drawable/com_android_mms_stat_notify_msg</item>
+    <item name="drawable/state_notify_msg_success">@drawable/com_jb_gosms_state_notify_msg</item>
+</resource-redirections>

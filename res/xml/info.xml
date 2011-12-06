@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/focused_application_background">@drawable/colourprimarydark</item>
+    <item name="drawable/pressed_application_background">@drawable/colourprimary</item>
+    <item name="drawable/action_item_selected">@drawable/colourprimary</item>
+</resource-redirections>

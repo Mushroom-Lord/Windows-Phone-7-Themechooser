@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/ic_launcher_folder">@drawable/ic_launcher_folder</item>
+    <item name="drawable/ic_launcher_folder_open">@drawable/ic_launcher_folder_open</item>
+    <item name="drawable/ic_launcher_home">@drawable/home_button_normal</item>
+    <item name="drawable/ic_launcher_home_small">@drawable/home_small</item>
+    <item name="drawable/ic_menu_back_small">@drawable/menu_back</item>
+    <item name="drawable/ic_menu_forward_small">@drawable/menu_forward</item>
+    <item name="drawable/icon_file">@drawable/unknown_file</item>
+    <item name="drawable/icon_sdcard">@drawable/memory_card</item>
+    <item name="drawable/icon_sdcard_small">@drawable/memory_card_small</item>
+</resource-redirections>

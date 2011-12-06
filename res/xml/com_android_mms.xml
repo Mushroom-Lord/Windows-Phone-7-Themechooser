@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/emo_im_laughing">@drawable/com_android_mms_emo_im_laughing</item>
+    <item name="drawable/emo_im_surprised">@drawable/com_android_mms_emo_im_surprised</item>
+    <item name="drawable/emo_im_wtf">@drawable/com_android_mms_emo_im_wtf</item>
+    <item name="drawable/emo_im_yelling">@drawable/com_android_mms_emo_im_yelling</item>
+    <item name="drawable/emo_im_foot_in_mouth">@drawable/com_android_mms_emo_im_foot_in_mouth</item>
+    <item name="drawable/emo_im_crying">@drawable/com_android_mms_emo_im_crying</item>
+    <item name="drawable/emo_im_undecided">@drawable/com_android_mms_emo_im_undecided</item>
+    <item name="drawable/emo_im_kissing">@drawable/com_android_mms_emo_im_kissing</item>
+    <item name="drawable/emo_im_winking">@drawable/com_android_mms_emo_im_winking</item>
+    <item name="drawable/emo_im_lips_are_sealed">@drawable/com_android_mms_emo_im_lips_are_sealed</item>
+    <item name="drawable/emo_im_tongue_sticking_out">@drawable/com_android_mms_emo_im_tongue_sticking_out</item>
+    <item name="drawable/emo_im_angel">@drawable/com_android_mms_emo_im_angel</item>
+    <item name="drawable/emo_im_happy">@drawable/com_android_mms_emo_im_happy</item>
+    <item name="drawable/emo_im_money_mouth">@drawable/com_android_mms_emo_im_money_mouth</item>
+    <item name="drawable/emo_im_cool">@drawable/com_android_mms_emo_im_cool</item>
+    <item name="drawable/emo_im_sad">@drawable/com_android_mms_emo_im_sad</item>
+    <item name="drawable/textfield_im_user_selected_pad">@drawable/frameworks_res_textfield_selected</item>
+    <item name="drawable/textfield_im_user_pressed_pad">@drawable/frameworks_res_textfield_pressed</item>
+    <item name="drawable/stat_notify_mms">@drawable/com_android_mms_stat_notify_mms</item>
+    <item name="drawable/stat_notify_sms">@drawable/com_android_mms_stat_notify_sms</item>
+</resource-redirections>

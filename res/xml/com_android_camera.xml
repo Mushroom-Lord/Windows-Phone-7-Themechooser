@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/bg_camera_pattern">@drawable/colour/black</item>
+    <item name="drawable/btn_mode_switch_bg">@drawable/colourgrey75</item>
+    <item name="drawable/btn_shutter_normal">@drawable/com_android_camera_btn_shutter_normal</item>
+    <item name="drawable/btn_mode_switch_knob_normal">@drawable/colourgrey50</item>
+    <item name="drawable/bg_camera_pattern">@drawable/com_android_camera_bg_camera_pattern</item>
+    <item name="drawable/btn_camera_review_highlight">@drawable/colourprimarydark</item>
+    <item name="drawable/btn_camera_review_pressed">@drawable/colourprimary</item>
+    <item name="drawable/btn_shutter_pressed">@drawable/com_android_camera_btn_shutter_pressed</item>
+    <item name="drawable/btn_camera_review_normal">@drawable/com_android_camera_btn_camera_review_normal</item>
+    <item name="drawable/border_last_picture_normal">@drawable/com_android_camera_border_last_picture_normal</item>
+    <item name="drawable/btn_mode_switch_knob_pressed">@drawable/colourprimary</item>
+    <item name="drawable/border_last_picture_pressed">@drawable/com_android_camera_border_last_picture_pressed</item>
+</resource-redirections>

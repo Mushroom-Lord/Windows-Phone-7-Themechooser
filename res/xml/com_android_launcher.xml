@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/wallpaper_lake">@drawable/com_android_launcher_wallpaper_lake</item>
+    <item name="drawable/wallpaper_lake_small">@drawable/com_android_launcher_wallpaper_lake_small</item>
+</resource-redirections>

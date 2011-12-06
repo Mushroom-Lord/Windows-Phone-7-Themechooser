@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/ic_launcher_marketplace">@drawable/com_android_vending_ic_launcher_androidmarket</item>
+    <item name="drawable/ic_launcher_androidmarket">@drawable/com_android_vending_ic_launcher_androidmarket</item>
+    <item name="drawable/stat_notify_marketplace_update">@drawable/com_android_vending_stat_notify_marketplace_update</item>
+    <item name="drawable/stat_sys_install_complete">@drawable/com_android_vending_stat_sys_install_complete</item>
+</resource-redirections>

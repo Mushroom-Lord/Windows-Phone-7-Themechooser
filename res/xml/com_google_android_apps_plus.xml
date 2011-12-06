@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/appwidget_dark_bg">@drawable/appwidget_bg</item>
+    <item name="drawable/appwidget_dark_bg_focus">@drawable/appwidget_bg_focus</item>
+    <item name="drawable/appwidget_dark_bg_press">@drawable/appwidget_bg_press</item>
+    <item name="drawable/appwidget_inner_focus_c">@drawable/appwidget_inner_focus_c</item>
+    <item name="drawable/appwidget_inner_focus_l">@drawable/appwidget_inner_focus_l</item>
+    <item name="drawable/appwidget_inner_focus_r">@drawable/appwidget_inner_focus_r</item>
+    <item name="drawable/appwidget_inner_press_c">@drawable/appwidget_inner_press_c</item>
+    <item name="drawable/appwidget_inner_press_l">@drawable/appwidget_inner_press_l</item>
+    <item name="drawable/appwidget_inner_press_r">@drawable/appwidget_inner_press_r</item>
+    <item name="drawable/notifications_stat_notify">@drawable/com_google_android_apps_plus_notifications_stat_notify</item>
+</resource-redirections>

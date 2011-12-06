@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/dockbar_background">@drawable/dockbar_background</item>
+    <item name="drawable/all_apps_button">@drawable/all_apps_button</item>
+    <item name="drawable/home_button_focused">@drawable/home_button_focused</item>
+    <item name="drawable/home_button_normal">@drawable/home_button_normal</item>
+    <item name="drawable/home_button_pressed">@drawable/home_button_pressed</item>
+    <item name="drawable/ic_launcher_folder">@drawable/ic_launcher_folder</item>
+    <item name="drawable/ic_launcher_folder_open">@drawable/ic_launcher_folder_open</item>
+</resource-redirections>

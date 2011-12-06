@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/appwidget_clock_dial">@drawable/appwidget_clock_dial</item>
+    <item name="drawable/appwidget_clock_hour">@drawable/appwidget_clock_hour</item>
+    <item name="drawable/appwidget_clock_minute">@drawable/appwidget_clock_minute</item>
+    <item name="drawable/btn_strip_trans_left_normal">@drawable/frameworks_res_btn_default_normal</item>
+    <item name="drawable/btn_strip_trans_left_pressed">@drawable/frameworks_res_btn_default_pressed</item>
+    <item name="drawable/btn_strip_trans_left_selected">@drawable/frameworks_res_btn_default_selected</item>
+    <item name="drawable/btn_strip_trans_middle_normal">@drawable/frameworks_res_btn_default_normal</item>
+    <item name="drawable/btn_strip_trans_middle_pressed">@drawable/frameworks_res_btn_default_pressed</item>
+    <item name="drawable/btn_strip_trans_middle_selected">@drawable/frameworks_res_btn_default_selected</item>
+    <item name="drawable/btn_strip_trans_right_normal">@drawable/frameworks_res_btn_default_normal</item>
+    <item name="drawable/btn_strip_trans_right_pressed">@drawable/frameworks_res_btn_default_pressed</item>
+    <item name="drawable/btn_strip_trans_right_selected">@drawable/frameworks_res_btn_default_selected</item>
+    <item name="drawable/dialog">@drawable/frameworks_res_toast_frame</item>
+    <item name="drawable/divider_vertical_dark">@drawable/colourblack</item>
+    <item name="drawable/ic_menu_add">@drawable/com_android_browser_ic_menu_new_window</item>
+    <item name="drawable/ic_menu_alarms">@drawable/com_android_deskclock_ic_widget_analog_clock</item>
+    <item name="drawable/ic_widget_analog_clock">@drawable/com_android_deskclock_ic_widget_analog_clock</item>
+    <item name="drawable/ic_clock_add_alarm">@drawable/com_android_deskclock_ic_clock_add_alarm</item>
+    <item name="drawable/ic_clock_add_alarm_selected">@drawable/com_android_deskclock_ic_clock_add_alarm_selected</item>
+    <item name="drawable/ic_clock_alarm_on">@drawable/com_android_deskclock_ic_clock_alarm_on</item>
+    <item name="drawable/ic_clock_alarm_selected">@drawable/com_android_deskclock_ic_clock_alarm_selected</item>
+    <item name="drawable/ic_clock_strip_desk_clock">@drawable/com_android_deskclock_ic_clock_strip_desk_clock</item>
+    <item name="drawable/ic_clock_strip_gallery">@drawable/com_android_deskclock_ic_clock_strip_gallery</item>
+    <item name="drawable/ic_clock_strip_home">@drawable/com_android_deskclock_ic_clock_strip_home</item>
+    <item name="drawable/ic_clock_strip_music">@drawable/com_android_deskclock_ic_clock_strip_music</item>
+    <item name="drawable/ic_clock_idle_alarm">@drawable/com_android_deskclock_ic_clock_alarm_on</item>
+    <item name="drawable/ic_clock_idle_alarm_saver">@drawable/com_android_deskclock_ic_clock_alarm_on</item>
+    <item name="drawable/ic_round_brightness">@drawable/ic_round_brightness</item>
+    <item name="drawable/list_selector_background_pressed">@drawable/colourprimary</item>
+</resource-redirections>

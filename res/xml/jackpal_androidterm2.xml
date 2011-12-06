@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/app_terminal">@drawable/icon_terminal</item>
+</resource-redirections>

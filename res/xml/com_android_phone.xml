@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/btn_in_call_answer_dotted_green">@drawable/frameworks_res_btn_default_normal</item>
+    <item name="drawable/btn_in_call_answer_dotted_red">@drawable/frameworks_res_btn_default_normal</item>
+    <item name="drawable/btn_in_call_answer_normal">@drawable/com_android_phone_transparent_button</item>
+    <item name="drawable/btn_in_call_answer_pressed">@drawable/frameworks_res_btn_default_pressed</item>
+    <item name="drawable/btn_in_call_main_disable">@drawable/com_android_phone_transparent_button</item>
+    <item name="drawable/btn_in_call_main_disable_focused">@drawable/com_android_phone_transparent_button</item>
+    <item name="drawable/btn_in_call_main_normal">@drawable/com_android_phone_transparent_button</item>
+    <item name="drawable/btn_in_call_main_pressed">@drawable/frameworks_res_btn_default_pressed</item>
+    <item name="drawable/btn_in_call_main_selected">@drawable/frameworks_res_btn_default_selected</item>
+    <item name="drawable/btn_in_call_switch_off_disable">@drawable/frameworks_res_btn_default_normal_disable</item>
+    <item name="drawable/btn_in_call_switch_off_disable_focused">@drawable/frameworks_res_btn_default_normal_disable_focused</item>
+    <item name="drawable/btn_in_call_switch_off_normal">@drawable/frameworks_res_btn_default_normal</item>
+    <item name="drawable/btn_in_call_switch_off_pressed">@drawable/frameworks_res_btn_default_pressed</item>
+    <item name="drawable/btn_in_call_switch_off_selected">@drawable/frameworks_res_btn_default_selected</item>
+    <item name="drawable/btn_in_call_switch_on_disable">@drawable/frameworks_res_btn_default_pressed</item>
+    <item name="drawable/btn_in_call_switch_on_disable_focused">@drawable/frameworks_res_btn_default_pressed</item>
+    <item name="drawable/btn_in_call_switch_on_normal">@drawable/frameworks_res_btn_default_pressed</item>
+    <item name="drawable/btn_in_call_switch_on_pressed">@drawable/frameworks_res_btn_default_selected</item>
+    <item name="drawable/btn_in_call_switch_on_selected">@drawable/frameworks_res_btn_default_pressed</item>
+    <item name="drawable/bg_in_call_gradient_bluetooth">@drawable/com_android_phone_bg_in_call_gradient_bluetooth</item>
+    <item name="drawable/bg_in_call_gradient_connected">@drawable/com_android_phone_bg_in_call_gradient_connected</item>
+    <item name="drawable/bg_in_call_gradient_ended">@drawable/com_android_phone_bg_in_call_gradient_ended</item>
+    <item name="drawable/bg_in_call_gradient_on_hold">@drawable/com_android_phone_bg_in_call_gradient_on_hold</item>
+    <item name="drawable/bg_in_call_gradient_unidentified">@drawable/com_android_phone_bg_in_call_gradient_unidentified</item>
+    <item name="drawable/stat_sys_phone_call">@drawable/stat_sys_phone_call</item>
+    <item name="drawable/stat_sys_phone_call_bluetooth">@drawable/stat_sys_phone_call_bluetooth</item>
+    <item name="drawable/stat_sys_phone_call_forward">@drawable/stat_sys_phone_call_forward</item>
+    <item name="drawable/stat_sys_phone_call_on_hold">@drawable/stat_sys_phone_call_on_hold</item>
+    <item name="drawable/stat_sys_phone_call_ringing">@drawable/stat_sys_phone_call_ringing</item>
+</resource-redirections>

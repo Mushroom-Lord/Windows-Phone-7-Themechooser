@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/yt_widget_background">@drawable/appwidget_bg</item>
+    <item name="drawable/appwidget_inner_focus_l">@drawable/appwidget_inner_focus_l</item>
+    <item name="drawable/appwidget_inner_press_l">@drawable/appwidget_inner_press_l</item>
+</resource-redirections>

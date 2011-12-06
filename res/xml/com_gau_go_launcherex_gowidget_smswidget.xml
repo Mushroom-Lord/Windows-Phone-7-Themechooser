@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/bg_top">@drawable/bg_top</item>
+    <item name="drawable/reply_top">@drawable/bg_top</item>
+    <item name="drawable/top_refresh_hightlight">@drawable/bg_top</item>
+    <item name="drawable/reply_send_backgound">@drawable/reply_send_backgound</item>
+</resource-redirections>

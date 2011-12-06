@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/ic_mailboxes_accounts">@drawable/ic_menu_account_list"</item>
+    <item name="drawable/ic_menu_archive">@drawable/com_google_android_gm_ic_menu_archive"</item>
+    <item name="drawable/ic_menu_attachment">@drawable/frameworks_res_ic_menu_attachment</item>
+    <item name="drawable/ic_menu_cc">@drawable/frameworks_res_ic_menu_allfriends"</item>
+    <item name="drawable/ic_menu_compose">@drawable/com_google_android_gm_ic_menu_compose</item>
+    <item name="drawable/ic_menu_gmail_mark_read">@drawable/com_google_android_gm_ic_menu_gmail_mark_read</item>
+    <item name="drawable/ic_menu_gmail_mark_unread">@drawable/com_google_android_gm_ic_menu_gmail_mark_unread</item>
+    <item name="drawable/ic_menu_navigate">@drawable/frameworks_res_ic_menu_archive</item>
+    <item name="drawable/ic_menu_refresh">@drawable/frameworks_res_ic_menu_refresh</item>
+    <item name="drawable/ic_menu_star">@drawable/frameworks_res_ic_menu_star</item>
+    <item name="drawable/ic_save_draft_disabled">@drawable/com_google_android_gm_ic_save_draft_disabled</item>
+    <item name="drawable/ic_save_draft_enabled">@drawable/com_google_android_gm_ic_save_draft_enabled</item>
+    <item name="drawable/ic_send_disabled">@drawable/com_google_android_gm_ic_send_disabled</item>
+    <item name="drawable/ic_send_enabled">@drawable/com_google_android_gm_ic_send_enabled</item>
+    <item name="drawable/stat_notify_email">@drawable/com_google_android_gm_stat_notify_email</item>
+</resource-redirections>

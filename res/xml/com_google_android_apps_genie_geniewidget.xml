@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/appwidget_dark_bg">@drawable/colourblack</item>
+    <item name="drawable/appwidget_dark_bg_press">@drawable/colourprimary</item>
+    <item name="drawable/appwidget_dark_bg_focus">@drawable/colourprimarydark</item>
+</resource-redirections>

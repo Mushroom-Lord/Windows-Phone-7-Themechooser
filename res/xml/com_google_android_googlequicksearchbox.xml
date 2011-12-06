@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/corpus_icon_web">@drawable/com_android_quicksearchbox_corpus_icon_web</item>
+    <item name="drawable/search_floater">@drawable/appwidget_fg</item>
+</resource-redirections>

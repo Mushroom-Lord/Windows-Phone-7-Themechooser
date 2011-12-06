@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/dialer_icon">@drawable/ic_menu_call</item>
+    <item name="drawable/smartdialer_statusbar_shortcut">@drawable/ic_menu_call</item>
+    <item name="drawable/tw_funcbar_add_n">@drawable/com_android_browser_ic_menu_new_window</item>
+    <item name="drawable/delete_block">@drawable/com_android_browser_btn_close_window</item>
+    <item name="drawable/delete_block_history">@drawable/com_android_browser_btn_close_window</item>
+    <item name="drawable/delete_group">@drawable/com_android_browser_btn_close_window</item>
+    <item name="drawable/delete_group_p">@drawable/com_android_browser_btn_close_window</item>
+    <item name="drawable/dialer_call_n">@drawable/com_android_contacts_ic_dial_action_call</item>
+    <item name="drawable/dialer_call_h">@drawable/com_android_contacts_ic_dial_action_call_on</item>
+    <item name="drawable/edit_group">@drawable/sym_note</item>
+    <item name="drawable/fav_item_op_bg">@drawable/com_gau_go_launcherex_search_floater</item>
+    <item name="drawable/mainpref_menuicon">@drawable/com_android_settings_ic_cyanogenmod</item>
+    <item name="drawable/detail_action_more_p">@drawable/ic_menu_more</item>
+    <item name="drawable/wait_menuicon">@drawable/com_android_deskclock_ic_widget_analog_clock</item>
+    <item name="drawable/tb_dialer_pad_bg">@drawable/dialer_background_smart</item>
+    <item name="drawable/contact_search_bg">@drawable/search_bg</item>
+    <item name="drawable/drag_group">@drawable/group_edit_move</item>
+    <item name="drawable/drag_group_p">@drawable/group_edit_move_p</item>
+    <item name="drawable/header_item_calllog_fg_s">@drawable/ic_tab_selected_recent</item>
+    <item name="drawable/header_item_calllog_fg_s">@drawable/ic_tab_selected_recent</item>
+</resource-redirections>

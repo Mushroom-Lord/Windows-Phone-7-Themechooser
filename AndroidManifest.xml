@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest android:hasCode="true" android:versionCode="1" android:versionName="1.9" android:installLocation="internalOnly" package="com.MLPBA.theme.WP7"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pluto="http://www.w3.org/2001/pluto.html">
+    <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="9" />
+    <application android:label="@string/theme_name" android:icon="@drawable/icon">
+        <activity android:label="@string/theme_name" android:name="com.tmobile.theme.Foo" />
+    </application>
+    <theme pluto:themeId="Windows Phone 7" pluto:styleId="@style/Windows Phone 7" pluto:name="@string/theme_name" pluto:preview="@drawable/preview" pluto:author="@string/author" pluto:copyright="@string/copyright" pluto:wallpaperImage="@drawable/wallpaper" pluto:styleName="@string/style_appearance_name" />
+</manifest>

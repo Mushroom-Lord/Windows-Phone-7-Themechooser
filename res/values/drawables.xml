@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="notification_header_text_color">#ffffffff</item>
+    <drawable name="alert_dark_frame">@drawable/frameworks_res_popup_full_dark</drawable>
+    <drawable name="alert_light_frame">@drawable/frameworks_res_popup_full_bright</drawable>
+    <drawable name="dialog_frame">@drawable/colourgrey50</drawable>
+    <drawable name="editbox_dropdown_dark_frame">@drawable/frameworks_res_editbox_dropdown_background_dark</drawable>
+    <drawable name="editbox_dropdown_light_frame">@drawable/frameworks_res_editbox_dropdown_background</drawable>
+    <drawable name="stat_sys_download_done">@drawable/frameworks_res_stat_sys_download_anim5</drawable>
+    <drawable name="stat_sys_upload_done">@drawable/frameworks_res_stat_sys_upload_anim5</drawable>
+</resources>

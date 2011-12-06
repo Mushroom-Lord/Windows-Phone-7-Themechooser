@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/ic_launcher_fmradio">@drawable/icon_fmradio</item>
+    <item name="drawable/stat_notify_fm">@drawable/com_android_fm_stat_notify_fm</item>
+</resource-redirections>

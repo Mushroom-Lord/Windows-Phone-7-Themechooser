@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/file_manager">@drawable/icon_root</item>
+    <item name="drawable/file_manager_r">@drawable/icon_root</item>
+</resource-redirections>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#ff19a2de</color>
+    <color name="accent_dark">#ff137dab</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="gray">#ff7f7f7f</color>
+    <color name="carrier_label_text_color">#ffffffff</color>
+    <color name="header_background_light1">#ff3bada6</color>
+    <color name="header_background_medium1">#ff1f6d9c</color>
+    <color name="header_background_medium2">#ff165178</color>
+    <color name="header_background_medium3">#ff195e90</color>
+    <color name="header_background_dark1">#ffffffff</color>
+    <color name="header_background_dark2">#ffffffff</color>
+    <color name="header_background_highlight1">#ff19a2de</color>
+    <color name="header_background_highlightTransparent1">#4019a2de</color>
+    <color name="header_background_highlight2">#ff137dab</color>
+    <color name="header_background_highdark1">#ff19a2de</color>
+    <color name="header_background_highdarkTransparent1">#4019a2de</color>
+    <color name="header_background_highdark2">#ff137dab</color>
+    <color name="dim_foreground_dark">#ff81bee1</color>
+    <color name="dim_foreground_dark_disabled">#8081bee1</color>
+    <color name="dim_foreground_dark_inverse">#ff323232</color>
+    <color name="dim_foreground_dark_inverse_disabled">#80323232</color>
+    <color name="dim_foreground_light">#ff323232</color>
+    <color name="dim_foreground_light_disabled">#80323232</color>
+    <color name="dim_foreground_light_inverse">#ff81bee1</color>
+    <color name="dim_foreground_light_inverse_disabled">#8081bee1</color>
+    <color name="latin_candidate_recommended">#ff19a2de</color>
+    <color name="latin_candidate_other">#ff19a2de</color>
+    <color name="latin_latinkeyboard_bar_language_text">#ffffffff</color>
+    <color name="systemui_carrier_label_text_color">#ffffffff</color>
+</resources>

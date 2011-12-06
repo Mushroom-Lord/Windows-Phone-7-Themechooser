@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/appfunc_home">@drawable/com_gau_go_launcherex_appfunc_home</item>
+    <item name="drawable/dock">@drawable/com_gau_go_launcherex_dock</item>
+    <item name="drawable/search_floater">@drawable/com_gau_go_launcherex_search_floater</item>
+    <item name="drawable/shortcut_0_0_phone">@drawable/com_gau_go_launcherex_shortcut_0_0_phone</item>
+    <item name="drawable/shortcut_0_1_contacts">@drawable/com_gau_go_launcherex_shortcut_0_1_contacts</item>
+    <item name="drawable/shortcut_0_2_funclist">@drawable/com_gau_go_launcherex_shortcut_0_2_funclist</item>
+    <item name="drawable/shortcut_0_3_sms">@drawable/com_gau_go_launcherex_shortcut_0_3_sms</item>
+    <item name="drawable/shortcut_0_4_browser">@drawable/com_gau_go_launcherex_shortcut_0_4_browser</item>
+    <item name="drawable/shortcut_0_calendar">@drawable/com_gau_go_launcherex_shortcut_0_calendar</item>
+    <item name="drawable/shortcut_0_camera">@drawable/com_gau_go_launcherex_shortcut_0_camera</item>
+    <item name="drawable/shortcut_0_gmail">@drawable/com_gau_go_launcherex_shortcut_0_gmail</item>
+    <item name="drawable/shortcut_0_market">@drawable/com_gau_go_launcherex_shortcut_0_market</item>
+    <item name="drawable/shortcut_0_music">@drawable/com_gau_go_launcherex_shortcut_0_music</item>
+    <item name="drawable/shortcut_0_picture">@drawable/com_gau_go_launcherex_shortcut_0_picture</item>
+    <item name="drawable/shortcut_0_setting">@drawable/com_gau_go_launcherex_shortcut_0_setting</item>
+    <item name="drawable/zzzzzzzzzzz_2015_tab_background">@drawable/zzzzzzzzzzz_2015_tab_background</item>
+</resource-redirections>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/icon">@drawable/icon</item>
+    <item name="drawable/wallpaper1">@drawable/wallpaper1</item>
+    <item name="drawable/wallpaper1_small">@drawable/wallpaper1_small</item>
+    <item name="string/wallpaper_label">@string/wallpaper_label</item>
+</resource-redirections>

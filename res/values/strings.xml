@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Windows Phone 7 Theme</string>
+    <string name="theme_name">Windows Phone 7</string>
+    <string name="style_appearance_name">Windows Phone 7</string>
+    <string name="author">Mushroom_Lord/PaintballerAlex07</string>
+    <string name="copyright">Mushroom_Lord/PaintballerAlex07</string>
+    <string name="wallpaper_label">WP7 Wallpapers</string>
+    <string name="go_app_label">SMS Pro</string>
+</resources>

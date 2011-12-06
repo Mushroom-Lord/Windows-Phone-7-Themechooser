@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/stat_sms">@drawable/com_quoord_tapatalkpro_activity_stat_sms</item>
+    <item name="drawable/widgetbackground">@drawable/appwidget_fg</item>
+</resource-redirections>

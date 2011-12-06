@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/ic_menu_preferences">@drawable/com_fede_launcher_ic_menu_preferences</item>
+    <item name="drawable/ic_menu_notifications">@drawable/com_fede_launcher_ic_menu_notifications</item>
+    <item name="drawable/focused_application_background">@drawable/colourprimarydark</item>
+    <item name="drawable/list_selector_background_pressed">@drawable/colourprimary</item>
+    <item name="drawable/list_selector_background_focus">@drawable/colourprimarydark</item>
+    <item name="drawable/widget_calendar_day_pressed">@drawable/colourprimary</item>
+    <item name="drawable/widget_calendar_day_selected">@drawable/colourprimarydark</item>
+</resource-redirections>
